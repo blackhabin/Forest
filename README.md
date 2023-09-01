@@ -1,8 +1,7 @@
 
 # 취향 존중 커뮤니티 'FOREST' 입니다
 
-- [포레스트 개발 과정](https://github.com/blackhabin/Shopping-Mall/wiki/개발과정)
-
+- [포레스트 개발 과정](https://github.com/blackhabin/Forest/wiki/개발과정)
 ---
 </br></br>
 
