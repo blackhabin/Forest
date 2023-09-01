@@ -32,10 +32,10 @@
    
 ---
 
-### Frameworks / Platforms / Libraries
+### Frameworks / Platforms / Libraries / BuildTool
    ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) </br>
    ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) </br>
-
+   ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) </br>
 ---
 
 ### Editors
