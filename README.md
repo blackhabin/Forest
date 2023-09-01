@@ -70,7 +70,6 @@
 ## 👨‍💻 프로그램
 
 <img src="https://user-images.githubusercontent.com/126144148/264969955-e5b0d639-c632-4c5c-951a-417743767ef2.png" width=80%>
-<img src="https://user-images.githubusercontent.com/126144148/264969981-2af2352b-8c55-4918-bcd9-87d05bebf933.png" width=80%>
 
 
 <img src="https://user-images.githubusercontent.com/126144148/264970064-6275ee0c-92dd-4938-bb2f-1eee0fcee2a2.png" width=80%>
