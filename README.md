@@ -1,7 +1,7 @@
 
 # 취향 존중 커뮤니티 'FOREST' 입니다
 
-- [주랑주랑 개발 과정](https://github.com/blackhabin/Shopping-Mall/wiki/개발과정)
+- [포레스트 개발 과정](https://github.com/blackhabin/Shopping-Mall/wiki/개발과정)
 
 ---
 </br></br>
@@ -36,6 +36,7 @@
    ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) </br>
    ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) </br>
    ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) </br>
+   ![Jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) </br>
 ---
 
 ### Editors
@@ -45,7 +46,6 @@
 
 #### DB / Server
    ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) </br>
-   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) </br>
    ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) </br>
 
 ---
