@@ -15,3 +15,6 @@
 | <img src="https://user-images.githubusercontent.com/126144148/264963766-5e0b8015-e4c2-4bdd-b30b-1d83f62b8a39.gif" alt="키워드검색" width=80%> | <img src="https://user-images.githubusercontent.com/126144148/254513210-b92d40e3-33ab-4dd6-9f1a-58f21bfdde0a.png" alt="세부 검색" width=80%> | <img src="https://user-images.githubusercontent.com/126144148/254513202-1bf7aee4-90c4-4008-9cfc-3c729da97003.png" alt="삭제화면" width=80%> |
 </br>
 </br>
+
+
+<img src="https://user-images.githubusercontent.com/126144148/264967211-42abd1c4-3c78-4651-9132-af380f2d1a59.png" width=80%>> 
